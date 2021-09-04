@@ -1,0 +1,24 @@
+.input {
+    width: 50%;
+    height: 50px;
+    padding: 2px 2px 2px 2px;
+    text-align: center;
+    border-width: 2px;
+    border-color: red;
+}
+
+.input:hover {
+    border-width: 3px;
+}
+
+.button {
+    width: 70px;
+    height: 50px;
+    border-width: 2px;
+    background-color: lime;
+}
+
+.button:hover {
+    border-width: 3px;
+    cursor: pointer;
+}
